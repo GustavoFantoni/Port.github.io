@@ -37,7 +37,9 @@ body {
 
 
 
-
+.text {
+    width: 70%;
+}
 
 
 .left-menu-fixed {
